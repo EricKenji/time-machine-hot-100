@@ -3,3 +3,4 @@ token.txt
 .idea
 .venv
 .cache
+.env
